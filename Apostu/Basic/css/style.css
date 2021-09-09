@@ -5,6 +5,9 @@
     font-family: 'Happy Monkey';
     /* text-shadow...I don't know if it's correct */
     text-shadow: .5px .5px 0 #707070; 
+    
+    /* box-shadow like in the task was asked */
+    box-shadow: 1px 10px 5px 5px #ccc; 
 }
 
 p, li {
