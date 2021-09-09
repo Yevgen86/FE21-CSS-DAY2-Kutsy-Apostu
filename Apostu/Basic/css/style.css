@@ -1,0 +1,50 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 50px;
+    font-family: 'Happy Monkey';
+    /* text-shadow...I don't know if it's correct */
+    text-shadow: .5px .5px 0 #707070; 
+}
+
+p, li {
+    color: #707070;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+li {
+    padding: 5px 0;
+}
+
+.rating {
+    text-align: center;
+}
+.rating span {
+    color: #F4B400;
+    font-size: 25px;
+}
+
+footer  {
+    text-align: center;
+}
